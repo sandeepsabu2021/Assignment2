@@ -1,0 +1,67 @@
+#lblCartCount {
+    font-size: 12px;
+    background: yellow;
+    color: blue;
+    padding: 0 5px;
+    vertical-align: top;
+    margin-left: -10px;
+    border: 1px solid black;
+    border-radius: 40%; 
+}
+
+.bannerimg{
+    height: 380px;
+}
+
+.footimg{
+    height: 300px;
+}
+
+.carousel-content {
+    position: absolute;
+    width: 40%;
+    top: 20%;
+    left: 12%;
+    z-index: 20;
+    text-align: center;
+  }
+  .carousel-foot-content {
+    position: absolute;
+    top: 12%;
+    padding-left: 50px;
+    padding-right: 50px;
+    z-index: 20;
+    color: white;
+  }
+
+  .personimg{
+      height: 50px;
+      width: 50px;
+      border-radius: 50%;
+      margin: 20px;
+  }
+
+.insta{
+    height: 150px;
+}
+.product{
+    border: 1px solid gray;
+}
+.social{
+    color: white;
+}
+.price{
+    color: red;
+}
+
+.bottom-foot{
+    background-color: rgb(8, 8, 8);
+    color: white;
+    padding: 3%;
+    text-align: center;
+}
+
+.contactform-head{
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
